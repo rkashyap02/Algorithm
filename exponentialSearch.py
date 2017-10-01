@@ -55,6 +55,9 @@ def exponentialSearch(arr, element):
     OUTPUTS:
     pos             : Index of the element to search
     
+    AUTHOR:
+    Rohit Kashyap, 2015.
+    
     """
     
     # Check if the first element is the element we are looking for
