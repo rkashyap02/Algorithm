@@ -15,8 +15,7 @@ def interpolation(arr, element):
     INPUTS:
     arr             : Input array
     element         : Element to search
-    step            : Steps in which to jump across data
-    
+     
     OUTPUTS:
     pos             : Array index of element to search
     
