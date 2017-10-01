@@ -14,12 +14,13 @@ def binsearch(arr, element):
     
     INPUTS:
     x               : Input array
-    
-    OUTPUTS:
     element         : Element to search
     
+    OUTPUTS:
+    pos            : Array index of the element to search
+    
     AUTHOR:
-    Rohit Kashyap,2015
+    Rohit Kashyap, 2015
     """
 
     low, high = 0, len(arr) -1
